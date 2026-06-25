@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TaskManager.Core.FileService">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManager.Core.TaskItem">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACCAAEABAgAEAEAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>TaskItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TaskManager.Core.TaskService">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAACBAAAQAAAAAAAAAAAVAAFCAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>TaskService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="TaskManager.Core.ITaskService">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACBAAAQAAAAAAAAAAAVAAFCAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>ITaskService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="TaskManager.Core.TaskItemStatus">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAQAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>TaskItem.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TaskManager.Core.TaskPriority">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABCAAACAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TaskItem.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
